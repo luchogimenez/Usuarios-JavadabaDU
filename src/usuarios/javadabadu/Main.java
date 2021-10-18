@@ -9,7 +9,7 @@ package usuarios.javadabadu;
  *
  * @author Lucho
  */
-public class UsuariosJavadabaDU {
+public class Main {
 
     /**
      * @param args the command line arguments
